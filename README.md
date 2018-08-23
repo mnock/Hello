@@ -9,8 +9,8 @@
 > 
 <img src="img/zb.gif" width="30%">
 
-## 虚拟货币钱包
-### 支持BTC,BCH,ETH,ERC20Token 打包交易，签名，广播交易,助记词生成与导入
+## 数字货币钱包
+### 支持BTC,BCH,ETH,ERC20Token 打包交易，签名，广播交易,助记词生成与导入，隔离验证地址
 >
 <img src="img/wallet.gif" width="30%">
 
