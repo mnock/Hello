@@ -8,3 +8,8 @@
 ### 使用腾讯移动直播 云通讯
 > 
 <img src="img/zb.gif" width="30%">
+
+## 虚拟币钱包
+### 支持BTC,BCH,ETH,ERC20Token
+>
+<img src="img/wallet.gif" width="30%">
