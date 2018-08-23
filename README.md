@@ -10,6 +10,6 @@
 <img src="img/zb.gif" width="30%">
 
 ## 虚拟货币钱包
-### 支持BTC,BCH,ETH,ERC20Token收发,用助记词导入钱包,私钥存本地，EOS待支持
+### 支持BTC,BCH,ETH,ERC20Token 打包交易，签名，广播交易,助记词生成与导入
 >
 <img src="img/wallet.gif" width="30%">
