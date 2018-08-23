@@ -13,3 +13,5 @@
 ### 支持BTC,BCH,ETH,ERC20Token 打包交易，签名，广播交易,助记词生成与导入
 >
 <img src="img/wallet.gif" width="30%">
+>
+<img src="img/hq.gif" width="30%">
